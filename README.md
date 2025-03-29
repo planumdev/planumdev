@@ -3,6 +3,7 @@
    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
    ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+   ![Pawn](https://img.shields.io/badge/Pawn-dbb284?style=for-the-badge&logo=pawn&logoColor=white)
    
  ### 🎆 Frameworks, Platforms, ORMs and Libraries:
    ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
